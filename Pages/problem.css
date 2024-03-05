@@ -18,9 +18,6 @@ body {
 }
 
 
-.content:hover, .footer:hover, .header:hover {
-    color: green;
-}
 
 .footer {
     background: linear-gradient(to left, #FFE7E7, #d0baba);
